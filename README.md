@@ -1,4 +1,4 @@
-# -_-
+# 二分查找
 C++实现
 from https://leetcode-cn.com/
 
